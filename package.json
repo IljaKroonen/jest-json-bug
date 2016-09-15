@@ -1,0 +1,17 @@
+{
+  "name": "jest-json-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ilja Kroonen",
+  "license": "WTFPL",
+  "devDependencies": {
+    "jest-cli": "^15.1.1"
+  },
+  "jest": {
+    "collectCoverage": true
+  }
+}
