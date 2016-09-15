@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest && node ./check-json.js"
   },
   "author": "Ilja Kroonen",
   "license": "WTFPL",
